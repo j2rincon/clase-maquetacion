@@ -1,4 +1,11 @@
 *{
     color: brown;
+    font-family: 'Roboto', sans-serif;
+}
+body {
+    background-color:  rgb(239, 233, 226);
 }
 
+img {
+    width: 50%;
+}
